@@ -17,6 +17,7 @@
   <br/>
   <!-- Web Dev -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=express,tailwind,next,php,jquery&theme=dark" />
   <br/>
   <!-- Databases -->
