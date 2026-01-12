@@ -16,9 +16,12 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs&theme=dark" />
   <br/>
   <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=express,tailwind,next,php,jquery&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,express,next,jquery&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,django&theme=dark" />
+  <img src="./CodeIgniter.svg" height="48" width="48" />
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
