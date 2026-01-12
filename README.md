@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=react,express,next,jquery&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=php,django&theme=dark" />
-  <img src="./CodeIgniter.svg" height="48" width="48" />
+  <img src="./CodeIgniter.svg" height="45" width="45" />
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
